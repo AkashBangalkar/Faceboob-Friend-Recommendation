@@ -27,9 +27,9 @@ Generated training samples of good and bad links from given directed graph and f
 - Confusion matrix
 
 *Posing a Problem as a Classification Problem*
-[Click Here]() To Check Exploratory Data Analysis - 1_FB_EDA_
-[Click Here]() To Check Work on The Features (Extraction) - 2_FB_Featurization_
-[Click Here]() To Check Work on Models (ML) - 3_FB_Models_
+[Click Here](https://github.com/akashbangalkar/facebook_friend_recommendation/blob/main/1_FB_EDA_.ipynb) To Check Exploratory Data Analysis - 1_FB_EDA_
+[Click Here](https://github.com/akashbangalkar/facebook_friend_recommendation/blob/main/2_FB_Featurization_.ipynb) To Check Work on The Features (Extraction) - 2_FB_Featurization_
+[Click Here](https://github.com/akashbangalkar/facebook_friend_recommendation/blob/main/3_FB_Models_.ipynb) To Check Work on Models (ML) - 3_FB_Models_
 
 ### Machine Learning Models
 
