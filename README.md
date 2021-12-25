@@ -1,4 +1,5 @@
 # Social Network Graph Link Prediction - Facebook Challenge
+  ![Facebook](https://github.com/akashbangalkar/facebook_friend_recommendation/blob/main/facebook.png)
 
 **Problem Statement**
 
